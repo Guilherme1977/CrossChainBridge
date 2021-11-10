@@ -1,5 +1,5 @@
 # harmony crosschain frontend
-Harmony crosschain Bridge is a client implementation for the crosschain-api
+Harmony crosschain Bridge is a client implementation for the [crosschain-api](https://github.com/harmony-one/crosschain-api)
 
 This is an alpha release of Harmony's Crosschain frontend software.
 
